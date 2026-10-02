@@ -1,0 +1,20 @@
+2026-10-02 16:10:11 [INFO] run : Tableau de bord : http://127.0.0.1:8787
+2026-10-02 16:10:11 [INFO] engine : Stratégie momentum     capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie fresh_grad   capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie dip_reclaim  capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie runner       capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie smart_money  capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie smart_established capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie observateur  capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Stratégie observateur_sm capital 10.000 SOL, 0 position(s) ouverte(s) (nouveau portefeuille)
+2026-10-02 16:10:11 [INFO] engine : Bot démarré en mode papier
+2026-10-02 16:10:11 [INFO] engine : Suivi de 0 tokens · SOL $121.95 · momentum 10.000 SOL (0 pos.) · fresh_grad 10.000 SOL (0 pos.) · dip_reclaim 10.000 SOL (0 pos.) · runner 10.000 SOL (0 pos.) · smart_money 10.000 SOL (0 pos.) · smart_established 10.000 SOL (0 pos.) · observateur 10.000 SOL (0 pos.) · observateur_sm 10.000 SOL (0 pos.)
+2026-10-02 16:10:11 [INFO] smartmoney : Flux smart money connecté (wallet_tracker.db), 1103 achats récents chargés
+2026-10-02 16:10:12 [INFO] feeds : PumpPortal connecté (migrations pump.fun en temps réel)
+2026-10-02 16:10:14 [INFO] engine : [smart_money] ACHAT SAM : 0.111 SOL (impact 1.14 %, aller-retour 2.5 %, score 30)
+2026-10-02 16:11:03 [INFO] engine : [smart_money] ACHAT si.gov : 0.111 SOL (impact 1.74 %, aller-retour 3.0 %, score 4)
+2026-10-02 16:14:13 [INFO] engine : [momentum] ACHAT JEANPHIL : 0.714 SOL (impact 0.30 %, aller-retour 1.8 %, score 67)
+2026-10-02 16:15:11 [INFO] engine : Suivi de 180 tokens · SOL $121.76 · momentum 9.983 SOL (1 pos.) · fresh_grad 10.000 SOL (0 pos.) · dip_reclaim 10.000 SOL (0 pos.) · runner 10.000 SOL (0 pos.) · smart_money 10.006 SOL (2 pos.) · smart_established 10.000 SOL (0 pos.) · observateur 10.000 SOL (0 pos.) · observateur_sm 10.000 SOL (0 pos.)
+2026-10-02 16:16:17 [INFO] engine : [smart_money] ACHAT MIND : 0.111 SOL (impact 1.52 %, aller-retour 2.1 %, score 40)
+2026-10-02 16:17:03 [INFO] engine : [smart_established] ACHAT Agency : 0.800 SOL (impact 1.57 %, aller-retour 1.7 %, score 33)
+2026-10-02 16:17:58 [INFO] engine : [smart_money] VENTE PARTIELLE MIND (take_profit_1) : +0.071 SOL à +60.0 %
